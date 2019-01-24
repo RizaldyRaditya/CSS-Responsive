@@ -1,0 +1,16 @@
+body{
+    background: black;
+    color: white;
+}
+@media only screen and (min-width: 600px){
+    body{
+        background: silver;
+        color: white;
+    }
+}
+@media only screen and (min-width: 768px){
+    body{
+        background: goldenrod;
+        color: black;
+    }
+}
